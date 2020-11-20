@@ -3,11 +3,12 @@
 
 # 20201120
 
-Niederreiter暗号は加法準同型暗号である
+準同型暗号
+https://qiita.com/herumi/items/d8645efe2cc5be2e7ee3
 
-https://qiita.com/herumi/items/d8645efe2cc5be2e7ee3（参考）
 
-私の前回の記事
+
+私の前回の記事(Niederrteiter暗号は加法準同型暗号かも？)
 
 https://qiita.com/fumumue/items/1849e283dc213a6f55f6
 
