@@ -6,9 +6,11 @@
 準同型暗号
 https://qiita.com/herumi/items/d8645efe2cc5be2e7ee3
 
+Niederrteiter暗号は加法準同型暗号かも？
 
+https://qiita.com/fumumue/items/1cd43c492e6cc4a52cbb
 
-私の前回の記事(Niederrteiter暗号は加法準同型暗号かも？)
+私の前回の記事()
 
 https://qiita.com/fumumue/items/1849e283dc213a6f55f6
 
