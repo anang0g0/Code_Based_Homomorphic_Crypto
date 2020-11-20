@@ -1,6 +1,5 @@
 # Code_Based_Homomorphic_Crypto
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 # 20201120
 
