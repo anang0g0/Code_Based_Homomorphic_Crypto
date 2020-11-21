@@ -6,6 +6,14 @@
 準同型暗号
 https://qiita.com/herumi/items/d8645efe2cc5be2e7ee3
 
+
+# 20201121
+
+こんなに需要があるならもっと早く符号で準同型暗号やっておけばとかった。
+もっと言うと数学でいう加群とどういう関係にあるのか興味がある。
+
+# 20201120
+
 Niederrteiter暗号は加法準同型暗号かも？
 
 https://qiita.com/fumumue/items/1cd43c492e6cc4a52cbb
@@ -13,6 +21,7 @@ https://qiita.com/fumumue/items/1cd43c492e6cc4a52cbb
 私の前回の記事()
 
 https://qiita.com/fumumue/items/1849e283dc213a6f55f6
+
 
 の中で、符号を用いて紛失通信を実現する方法を考えましたが、
 これもエラーベクトルとシンドロームのある性質を使っていると言えます。
