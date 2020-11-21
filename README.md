@@ -1,16 +1,15 @@
 # Code_Based_Homomorphic_Crypto
 
 
-# 20201120
-
-準同型暗号
-https://qiita.com/herumi/items/d8645efe2cc5be2e7ee3
-
-
 # 20201121
 
 こんなに需要があるならもっと早く符号で準同型暗号やっておけばとかった。
 もっと言うと数学でいう加群とどういう関係にあるのか興味がある。
+
+# 20201120
+
+準同型暗号
+https://qiita.com/herumi/items/d8645efe2cc5be2e7ee3
 
 # 20201120
 
